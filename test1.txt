@@ -7,4 +7,8 @@ kurimanjyu
 
 たらかまもおいしいよなぁ
 
+<<<<<<< HEAD
 aaa
+=======
+sakurasakumaiotirunanimonaibokunotenoue
+>>>>>>> b471657a2c71ae0e554e8fcc04b53c83059a4146
